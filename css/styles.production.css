@@ -99,6 +99,11 @@ body {
     text-align: center;
   }
 
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+
   .profile__protrait {
     float: left;
     width: 250px;
