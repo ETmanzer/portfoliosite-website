@@ -103,18 +103,6 @@ body {
     text-align: center;
   }
 
-  svg {
-    display: block;
-    margin: auto;
-    text-align: center;
-  }
-
-  .container {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-  }
-
   .profile__protrait {
     float: left;
     width: 250px;
