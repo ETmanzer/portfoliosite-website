@@ -108,6 +108,11 @@ body {
     margin: auto;
   }
 
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+
   .profile__protrait {
     float: left;
     width: 250px;
