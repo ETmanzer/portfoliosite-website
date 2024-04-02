@@ -106,6 +106,7 @@ body {
   svg {
     display: block;
     margin: auto;
+    padding: auto;
   }
 
   .container {
