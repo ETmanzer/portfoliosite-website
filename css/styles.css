@@ -106,12 +106,13 @@ body {
   svg {
     display: block;
     margin: auto;
-    padding: auto;
+    text-align: center;
   }
 
   .container {
     display: flex;
     justify-content: center;
+    text-align: center;
   }
 
   .profile__protrait {
